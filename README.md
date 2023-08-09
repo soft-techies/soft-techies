@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm soft-techies</h1>
+<h1 align="center">Hi 👋, I'm Aradhana Prabhakar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **new technologies**
